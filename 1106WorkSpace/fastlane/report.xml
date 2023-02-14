@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.001038">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: echo hello world" time="0.009772">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: git config user.name" time="0.065505">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: python3 ../fastlane/fast.py 77 yangwu2014
+" time="0.141834">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
